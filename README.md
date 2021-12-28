@@ -7,6 +7,14 @@
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white">
 <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=Xcode&logoColor=white">
 
+### 🎨Visual Design🎨
+<img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=flat-square&logo=Adobe Illustrator&logoColor=white">
+<img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat-square&logo=Adobe Photoshop&logoColor=white">
+<img src="https://img.shields.io/badge/Adobe After Effects-9999FF?style=flat-square&logo=Adobe After Effects&logoColor=white">
+<img src="https://img.shields.io/badge/Adobe Premiere Pro-9999FF?style=flat-square&logo=Adobe Premiere Pro&logoColor=white">
+<img src="https://img.shields.io/badge/Adobe XD-FF61F6?style=flat-square&logo=Adobe XD&logoColor=white">
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white">
+
 
 ### 🤍Contact Me🤍
 <a href="https://www.instagram.com/so_ddengguri/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
