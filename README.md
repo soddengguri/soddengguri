@@ -44,5 +44,5 @@ Here are some ideas to get you started:
 ### 🤍Contact Me🤍
 <a href="https://www.instagram.com/so_ddengguri/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
-<a href="https://open.kakao.com/o/syOfXnRd" target="_blank">
-  <img src="https://img.shields.io/badge/KaKaoTalk-FFCD00?style=flat-square&logo=KakaoTalk&logoColor=white"/></a>
+<a href="mailto:thdus060978@naver.com">
+  <img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:thdus060978@naver.com"/></a>
